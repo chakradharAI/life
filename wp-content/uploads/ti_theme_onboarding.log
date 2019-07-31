@@ -1,0 +1,20 @@
+[31/Jul/2019:11:19:27] (ℹ️): WordPress Instance Info:
+[31/Jul/2019:11:19:27] (ℹ️): Home URL : http://localhost/test1
+[31/Jul/2019:11:19:27] (ℹ️): Site URL : http://localhost/test1
+[31/Jul/2019:11:19:27] (ℹ️): WordPress Version : 5.2.2
+[31/Jul/2019:11:19:27] (ℹ️): Onboarding Version : 1.6.1
+[31/Jul/2019:11:19:27] (ℹ️): Multisite : No
+[31/Jul/2019:11:19:27] (ℹ️): Server Info : Apache/2.4.39 (Win64) OpenSSL/1.1.1c PHP/7.3.7
+[31/Jul/2019:11:19:27] (ℹ️): PHP Version : 7.3.7
+[31/Jul/2019:11:19:27] (ℹ️): HTTPS : No
+[31/Jul/2019:11:19:27] (ℹ️): PHP Max Execution Time : 30
+[31/Jul/2019:11:19:27] (ℹ️): PHP Max Input Vars : 1000
+[31/Jul/2019:11:19:27] (ℹ️): Max Upload Size : 2097152
+[31/Jul/2019:11:19:27] (ℹ️): Plugins:
+[31/Jul/2019:11:19:27] (ℹ️): [PLUGIN] Elementor : v2.6.7 (Elementor.com)
+[31/Jul/2019:11:19:27] (ℹ️): [PLUGIN] Simply Static : v2.1.0 (Code of Conduct LLC)
+[31/Jul/2019:11:19:27] (🔵): Installing wpforms-lite.
+[31/Jul/2019:11:19:51] (🔵): Activating wpforms-lite.
+[31/Jul/2019:11:19:51] (🔵): Installing themeisle-companion.
+[31/Jul/2019:11:21:42] (🔵): Activating themeisle-companion.
+[31/Jul/2019:11:21:42] (✅): Installed and activated plugins.
