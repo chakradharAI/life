@@ -1,0 +1,23 @@
+{
+    "name": "life",
+    "short_name": "life",
+    "description": "For a Happier Tomorrow",
+    "icons": [
+        {
+            "src": "http:\/\/localhost\/test1\/wp-content\/uploads\/2019\/07\/logo.png",
+            "sizes": "192x192",
+            "type": "image\/png"
+        },
+        {
+            "src": "http:\/\/localhost\/test1\/wp-content\/uploads\/2019\/07\/logo.png",
+            "sizes": "512x512",
+            "type": "image\/png"
+        }
+    ],
+    "background_color": "#D5E0EB",
+    "theme_color": "#D5E0EB",
+    "display": "standalone",
+    "orientation": "portrait",
+    "start_url": "http:\/\/localhost\/test1\/",
+    "scope": "http:\/\/localhost\/test1\/"
+}
